@@ -1,4 +1,4 @@
-<h1 align="center">print('Hello World, I'm Abdul!! 👋')</h1>
+<h1 align="center">print('Hello World, I'm Abdul!!')</h1>
 
 <h3 align="center">Systems Engineering Student & Full Stack Developer from Colombia 🇨🇴</h3>
 
@@ -13,13 +13,13 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **Systems Engineering Student** focused on building scalable and efficient web applications.
-- 💻 Currently working on **Full Stack Development** using modern JavaScript frameworks.
-- ☁️ Experienced in deploying production-ready applications with **AWS Amplify**.
-- 🛠️ Passionate about clean code, software architecture, and cloud infrastructure.
+###  About Me
+-  **Systems Engineering Student** focused on building scalable and efficient web applications.
+-  Currently working on **Full Stack Development** using modern JavaScript frameworks.
+-  Experienced in deploying production-ready applications with **AWS Amplify**.
+-  Passionate about clean code, software architecture, and cloud infrastructure.
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Category | Technologies |
 |---|---|
