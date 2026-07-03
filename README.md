@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:8E75B2&height=200&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:8E75B2&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h1 align="center">print("Hello World, I'm Abdul!! 👋")</h1>
 <h3 align="center">Systems Engineering Student & Full Stack Developer from Colombia 🇨🇴</h3>
@@ -54,6 +54,6 @@
   <i>"The best way to predict the future is to invent it."</i>
 </p>
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:0077B5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:0077B5&height=80&section=footer" width="100%"/>
  
 
