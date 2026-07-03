@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:8E75B2&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<h1 align="center">print("Hello World, I'm Abdul!! 👋")</h1>
+<h1 align="center">print("Hello World, I'm Abdul!!")</h1>
 <h3 align="center">Systems Engineering Student & Full Stack Developer from Colombia 🇨🇴</h3>
 
 <p align="center">
@@ -23,13 +23,13 @@
 
 ---
 
-### 🔭 Currently Building
+### Currently Building
 
 **[MenuMind IA](https://github.com/ariasqz/MenuMind_IA)** — an AI-powered menu generator: give it your available ingredients, and Google Gemini creates a menu on the spot, saved to a PostgreSQL database via Prisma 7. Fully dockerized backend + a Next.js frontend.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ariasqz&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdul's GitHub stats"/>
